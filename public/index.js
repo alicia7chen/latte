@@ -1,8 +1,4 @@
 /*
- * Name: Alicia Chen
- * Date: 07/09/2022
- * Section: CSE 154 AA
- *
  * This is the JS to implement the UI for my website and responds to
  * different user interactions with the main webpage
  */
